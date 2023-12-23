@@ -1,0 +1,1281 @@
+id_project, game_type
+1,Moba
+2,Sports
+3,FPS
+4,Horor
+5,Adventure
+6,Battle Royal
+7,Sports
+8,RPG
+9,Puzzle
+10,Open World
+11,Puzzle
+12,Sports
+13,Battle Royal
+14,Moba
+15,RPG
+16,FPS
+17,Open World
+18,Adventure
+19,Horor
+20,Sports
+21,Moba
+22,Adventure
+23,FPS
+24,Sports
+25,Puzzle
+26,Battle Royal
+27,Sports
+28,Horor
+29,Horor
+30,Open World
+31,Moba
+32,FPS
+33,Open World
+34,Sports
+35,Adventure
+36,Battle Royal
+37,RPG
+38,Puzzle
+39,RPG
+40,Sports
+41,Sports
+42,Open World
+43,FPS
+44,Sports
+45,Adventure
+46,Battle Royal
+47,Puzzle
+48,Horor
+49,Sports
+50,Sports
+51,Battle Royal
+52,Open World
+53,Moba
+54,FPS
+55,Adventure
+56,Puzzle
+57,Adventure
+58,Puzzle
+59,Moba
+60,Sports
+61,Battle Royal
+62,Sports
+63,Sports
+64,Open World
+65,Adventure
+66,FPS
+67,Moba
+68,RPG
+69,Horor
+70,Battle Royal
+71,Sports
+72,Open World
+73,Puzzle
+74,FPS
+75,Horor
+76,Moba
+77,RPG
+78,RPG
+79,Horor
+80,RPG
+81,Moba
+82,Moba
+83,FPS
+84,FPS
+85,Horor
+86,Horor
+87,Puzzle
+88,Sports
+89,Adventure
+90,Battle Royal
+91,Sports
+92,Sports
+93,RPG
+94,Battle Royal
+95,Horor
+96,Battle Royal
+97,FPS
+98,Sports
+99,Puzzle
+100,Sports
+101,Open World
+102,Adventure
+103,Battle Royal
+104,Horor
+105,Adventure
+106,Sports
+107,FPS
+108,Adventure
+109,Open World
+110,Sports
+111,Adventure
+112,RPG
+113,RPG
+114,Battle Royal
+115,FPS
+116,Sports
+117,Moba
+118,Battle Royal
+119,Adventure
+120,Moba
+121,RPG
+122,Horor
+123,Adventure
+124,RPG
+125,Puzzle
+126,FPS
+127,Sports
+128,RPG
+129,Puzzle
+130,Moba
+131,Puzzle
+132,Horor
+133,FPS
+134,Horor
+135,Open World
+136,Sports
+137,Sports
+138,Puzzle
+139,Sports
+140,RPG
+141,Puzzle
+142,Sports
+143,Open World
+144,Moba
+145,Sports
+146,Open World
+147,Battle Royal
+148,Puzzle
+149,Open World
+150,Sports
+151,Moba
+152,Adventure
+153,FPS
+154,Sports
+155,Horor
+156,Moba
+157,Battle Royal
+158,Open World
+159,RPG
+160,Open World
+161,Sports
+162,Open World
+163,Sports
+164,Puzzle
+165,Horor
+166,Open World
+167,Adventure
+168,Open World
+169,Open World
+170,Open World
+171,Sports
+172,Horor
+173,FPS
+174,Moba
+175,Puzzle
+176,Moba
+177,Puzzle
+178,Puzzle
+179,Puzzle
+180,Open World
+181,Moba
+182,Horor
+183,Battle Royal
+184,Open World
+185,FPS
+186,Adventure
+187,Sports
+188,Adventure
+189,Horor
+190,Adventure
+191,Sports
+192,Horor
+193,Battle Royal
+194,Sports
+195,FPS
+196,RPG
+197,Battle Royal
+198,FPS
+199,Battle Royal
+200,Sports
+201,Sports
+202,Sports
+203,FPS
+204,FPS
+205,Battle Royal
+206,RPG
+207,Moba
+208,FPS
+209,Moba
+210,RPG
+211,FPS
+212,Sports
+213,FPS
+214,Horor
+215,Sports
+216,Horor
+217,RPG
+218,RPG
+219,Sports
+220,Open World
+221,Adventure
+222,Sports
+223,Open World
+224,RPG
+225,FPS
+226,Horor
+227,Puzzle
+228,Battle Royal
+229,Sports
+230,Moba
+231,Moba
+232,RPG
+233,Adventure
+234,Adventure
+235,Puzzle
+236,Horor
+237,Sports
+238,RPG
+239,Battle Royal
+240,Sports
+241,Battle Royal
+242,RPG
+243,Sports
+244,Battle Royal
+245,Battle Royal
+246,Moba
+247,Open World
+248,Horor
+249,FPS
+250,Sports
+251,FPS
+252,Sports
+253,RPG
+254,Adventure
+255,FPS
+256,Sports
+257,RPG
+258,Open World
+259,Sports
+260,FPS
+261,Battle Royal
+262,Sports
+263,Puzzle
+264,Sports
+265,Battle Royal
+266,Moba
+267,RPG
+268,Adventure
+269,Puzzle
+270,RPG
+271,Sports
+272,Sports
+273,Adventure
+274,Adventure
+275,Sports
+276,FPS
+277,Sports
+278,Open World
+279,Battle Royal
+280,Puzzle
+281,Battle Royal
+282,Moba
+283,Sports
+284,Puzzle
+285,Horor
+286,Adventure
+287,RPG
+288,Puzzle
+289,Puzzle
+290,Horor
+291,Open World
+292,Adventure
+293,Adventure
+294,Battle Royal
+295,Open World
+296,Moba
+297,Sports
+298,Adventure
+299,Adventure
+300,Puzzle
+301,Horor
+302,Moba
+303,Puzzle
+304,Moba
+305,Sports
+306,Moba
+307,Puzzle
+308,Horor
+309,Sports
+310,Moba
+311,Sports
+312,Horor
+313,Horor
+314,Open World
+315,Moba
+316,Open World
+317,FPS
+318,RPG
+319,RPG
+320,Battle Royal
+321,Open World
+322,Moba
+323,Battle Royal
+324,Open World
+325,Open World
+326,Adventure
+327,Sports
+328,Moba
+329,Battle Royal
+330,FPS
+331,Sports
+332,RPG
+333,FPS
+334,Battle Royal
+335,FPS
+336,Moba
+337,FPS
+338,RPG
+339,Puzzle
+340,Adventure
+341,FPS
+342,Sports
+343,Battle Royal
+344,RPG
+345,FPS
+346,Horor
+347,Adventure
+348,Sports
+349,FPS
+350,Open World
+351,Moba
+352,Battle Royal
+353,Open World
+354,Open World
+355,Horor
+356,Horor
+357,Puzzle
+358,Horor
+359,Open World
+360,Horor
+361,RPG
+362,Sports
+363,Adventure
+364,Moba
+365,Puzzle
+366,Horor
+367,Battle Royal
+368,FPS
+369,Puzzle
+370,Puzzle
+371,Puzzle
+372,Horor
+373,Horor
+374,Battle Royal
+375,Adventure
+376,Adventure
+377,Puzzle
+378,Battle Royal
+379,Puzzle
+380,FPS
+381,FPS
+382,Open World
+383,Moba
+384,Sports
+385,FPS
+386,RPG
+387,Puzzle
+388,Horor
+389,Adventure
+390,Puzzle
+391,Adventure
+392,Sports
+393,FPS
+394,RPG
+395,Battle Royal
+396,FPS
+397,Puzzle
+398,RPG
+399,Battle Royal
+400,Sports
+401,Battle Royal
+402,Puzzle
+403,Sports
+404,Moba
+405,Sports
+406,Battle Royal
+407,Moba
+408,FPS
+409,Adventure
+410,Puzzle
+411,Adventure
+412,Open World
+413,Adventure
+414,Battle Royal
+415,Moba
+416,Open World
+417,Sports
+418,Open World
+419,Puzzle
+420,Horor
+421,Open World
+422,Open World
+423,RPG
+424,Moba
+425,FPS
+426,Horor
+427,FPS
+428,Battle Royal
+429,Sports
+430,Battle Royal
+431,RPG
+432,RPG
+433,Adventure
+434,FPS
+435,Puzzle
+436,FPS
+437,FPS
+438,RPG
+439,Puzzle
+440,Moba
+441,Battle Royal
+442,Sports
+443,Moba
+444,Horor
+445,Sports
+446,Puzzle
+447,Sports
+448,Open World
+449,Sports
+450,RPG
+451,RPG
+452,Horor
+453,FPS
+454,Horor
+455,Puzzle
+456,Sports
+457,Sports
+458,Sports
+459,Puzzle
+460,Adventure
+461,Puzzle
+462,Moba
+463,Puzzle
+464,Moba
+465,Moba
+466,RPG
+467,Sports
+468,Moba
+469,Moba
+470,RPG
+471,Adventure
+472,Battle Royal
+473,Sports
+474,Sports
+475,Open World
+476,Moba
+477,Sports
+478,Horor
+479,Puzzle
+480,FPS
+481,Sports
+482,Puzzle
+483,RPG
+484,RPG
+485,Sports
+486,Open World
+487,RPG
+488,Horor
+489,Open World
+490,FPS
+491,Moba
+492,Adventure
+493,Moba
+494,Open World
+495,Horor
+496,Adventure
+497,Moba
+498,Moba
+499,FPS
+500,Horor
+501,Horor
+502,Sports
+503,Open World
+504,Battle Royal
+505,Battle Royal
+506,Horor
+507,Sports
+508,Open World
+509,RPG
+510,Horor
+511,RPG
+512,Open World
+513,Battle Royal
+514,Battle Royal
+515,Puzzle
+516,FPS
+517,Open World
+518,Battle Royal
+519,Open World
+520,Sports
+521,Sports
+522,Open World
+523,Sports
+524,Battle Royal
+525,Moba
+526,Puzzle
+527,Sports
+528,Adventure
+529,Open World
+530,Battle Royal
+531,FPS
+532,Horor
+533,Horor
+534,Puzzle
+535,RPG
+536,Sports
+537,Sports
+538,Moba
+539,Horor
+540,Moba
+541,Puzzle
+542,Sports
+543,FPS
+544,Sports
+545,RPG
+546,Horor
+547,FPS
+548,Adventure
+549,Adventure
+550,Open World
+551,RPG
+552,Sports
+553,RPG
+554,Puzzle
+555,Sports
+556,Sports
+557,Horor
+558,Sports
+559,Adventure
+560,Puzzle
+561,Sports
+562,Puzzle
+563,Sports
+564,Sports
+565,Adventure
+566,Adventure
+567,RPG
+568,Battle Royal
+569,Sports
+570,Moba
+571,RPG
+572,Open World
+573,Sports
+574,RPG
+575,Sports
+576,Sports
+577,Battle Royal
+578,Sports
+579,FPS
+580,FPS
+581,Adventure
+582,Sports
+583,Horor
+584,Sports
+585,Open World
+586,Sports
+587,RPG
+588,Sports
+589,FPS
+590,Sports
+591,FPS
+592,Sports
+593,Sports
+594,Moba
+595,RPG
+596,Adventure
+597,Sports
+598,Sports
+599,Moba
+600,Battle Royal
+601,RPG
+602,Moba
+603,Adventure
+604,Adventure
+605,Adventure
+606,Moba
+607,Open World
+608,Horor
+609,Battle Royal
+610,Adventure
+611,Battle Royal
+612,Puzzle
+613,Adventure
+614,RPG
+615,Adventure
+616,Open World
+617,Moba
+618,Sports
+619,Horor
+620,RPG
+621,Adventure
+622,Sports
+623,Sports
+624,Horor
+625,Battle Royal
+626,Open World
+627,Sports
+628,Puzzle
+629,Adventure
+630,Sports
+631,Sports
+632,Sports
+633,Horor
+634,Battle Royal
+635,Moba
+636,Horor
+637,Open World
+638,FPS
+639,Sports
+640,Battle Royal
+641,RPG
+642,Moba
+643,Adventure
+644,Sports
+645,Puzzle
+646,Horor
+647,RPG
+648,Battle Royal
+649,FPS
+650,FPS
+651,Open World
+652,RPG
+653,Puzzle
+654,Battle Royal
+655,Sports
+656,Horor
+657,Puzzle
+658,Sports
+659,Sports
+660,Sports
+661,Battle Royal
+662,FPS
+663,Moba
+664,Moba
+665,Puzzle
+666,Sports
+667,FPS
+668,Moba
+669,Adventure
+670,Battle Royal
+671,FPS
+672,Horor
+673,RPG
+674,Adventure
+675,Open World
+676,Moba
+677,Sports
+678,Puzzle
+679,FPS
+680,Puzzle
+681,RPG
+682,Moba
+683,Horor
+684,Horor
+685,Sports
+686,RPG
+687,FPS
+688,Moba
+689,Open World
+690,Battle Royal
+691,Sports
+692,Sports
+693,FPS
+694,Moba
+695,Open World
+696,Horor
+697,Sports
+698,Puzzle
+699,Adventure
+700,Adventure
+701,Open World
+702,Open World
+703,Puzzle
+704,FPS
+705,Sports
+706,Moba
+707,FPS
+708,Puzzle
+709,Sports
+710,Horor
+711,Puzzle
+712,Sports
+713,Sports
+714,Sports
+715,Sports
+716,Adventure
+717,Puzzle
+718,Puzzle
+719,Open World
+720,Battle Royal
+721,Sports
+722,Moba
+723,Sports
+724,FPS
+725,RPG
+726,Open World
+727,Adventure
+728,Open World
+729,Sports
+730,Sports
+731,Adventure
+732,Sports
+733,Horor
+734,Battle Royal
+735,RPG
+736,Adventure
+737,Puzzle
+738,Open World
+739,FPS
+740,Puzzle
+741,FPS
+742,Horor
+743,Sports
+744,RPG
+745,Battle Royal
+746,Sports
+747,Adventure
+748,Moba
+749,Battle Royal
+750,Puzzle
+751,Battle Royal
+752,Horor
+753,Open World
+754,Sports
+755,Moba
+756,Adventure
+757,Open World
+758,Battle Royal
+759,Puzzle
+760,FPS
+761,RPG
+762,RPG
+763,RPG
+764,Horor
+765,Open World
+766,RPG
+767,Sports
+768,Puzzle
+769,Puzzle
+770,FPS
+771,Battle Royal
+772,Adventure
+773,Adventure
+774,Horor
+775,Battle Royal
+776,RPG
+777,Open World
+778,Battle Royal
+779,Adventure
+780,Sports
+781,Sports
+782,Battle Royal
+783,Open World
+784,Adventure
+785,FPS
+786,Open World
+787,FPS
+788,RPG
+789,FPS
+790,Open World
+791,Battle Royal
+792,Sports
+793,Moba
+794,Battle Royal
+795,Puzzle
+796,Puzzle
+797,RPG
+798,Sports
+799,FPS
+800,FPS
+801,Open World
+802,RPG
+803,Moba
+804,Sports
+805,Horor
+806,Adventure
+807,FPS
+808,FPS
+809,Sports
+810,FPS
+811,Battle Royal
+812,FPS
+813,RPG
+814,Moba
+815,Adventure
+816,RPG
+817,Sports
+818,Moba
+819,FPS
+820,Horor
+821,Adventure
+822,Horor
+823,Open World
+824,Puzzle
+825,Moba
+826,RPG
+827,Battle Royal
+828,Open World
+829,Open World
+830,RPG
+831,Battle Royal
+832,Moba
+833,Open World
+834,Horor
+835,Horor
+836,Horor
+837,Sports
+838,Battle Royal
+839,Sports
+840,Battle Royal
+841,RPG
+842,FPS
+843,Horor
+844,FPS
+845,Puzzle
+846,Puzzle
+847,Open World
+848,Sports
+849,Moba
+850,Moba
+851,RPG
+852,Adventure
+853,Horor
+854,RPG
+855,Moba
+856,Horor
+857,FPS
+858,Sports
+859,Puzzle
+860,Adventure
+861,Sports
+862,Battle Royal
+863,Open World
+864,Horor
+865,Sports
+866,Moba
+867,Horor
+868,Horor
+869,Moba
+870,Adventure
+871,Horor
+872,Sports
+873,FPS
+874,Sports
+875,Moba
+876,Horor
+877,Sports
+878,Battle Royal
+879,Battle Royal
+880,Puzzle
+881,Open World
+882,Horor
+883,Adventure
+884,Adventure
+885,Sports
+886,Horor
+887,Battle Royal
+888,Battle Royal
+889,Open World
+890,Puzzle
+891,Horor
+892,Puzzle
+893,Moba
+894,Open World
+895,Adventure
+896,Horor
+897,Puzzle
+898,RPG
+899,Battle Royal
+900,Horor
+901,Adventure
+902,RPG
+903,Moba
+904,RPG
+905,FPS
+906,Adventure
+907,Sports
+908,Adventure
+909,Horor
+910,Sports
+911,Puzzle
+912,Sports
+913,RPG
+914,Adventure
+915,Puzzle
+916,Sports
+917,Sports
+918,Sports
+919,Open World
+920,Sports
+921,FPS
+922,Sports
+923,FPS
+924,Battle Royal
+925,Battle Royal
+926,Battle Royal
+927,Horor
+928,Open World
+929,Sports
+930,Open World
+931,Moba
+932,Puzzle
+933,Adventure
+934,Horor
+935,Sports
+936,Sports
+937,Puzzle
+938,Battle Royal
+939,FPS
+940,Moba
+941,Puzzle
+942,Horor
+943,Open World
+944,Battle Royal
+945,Adventure
+946,Open World
+947,Sports
+948,Puzzle
+949,Adventure
+950,Sports
+951,Horor
+952,Sports
+953,Battle Royal
+954,Horor
+955,Moba
+956,Moba
+957,RPG
+958,Moba
+959,Sports
+960,Horor
+961,Battle Royal
+962,Battle Royal
+963,FPS
+964,Sports
+965,Sports
+966,Open World
+967,Sports
+968,Horor
+969,Open World
+970,Horor
+971,Open World
+972,Open World
+973,FPS
+974,Puzzle
+975,Moba
+976,Open World
+977,Open World
+978,Horor
+979,Sports
+980,Adventure
+981,Sports
+982,Battle Royal
+983,Moba
+984,Puzzle
+985,Open World
+986,RPG
+987,RPG
+988,Moba
+989,Moba
+990,FPS
+991,FPS
+992,Moba
+993,FPS
+994,Sports
+995,Horor
+996,RPG
+997,Adventure
+998,Open World
+999,Puzzle
+1000,Sports
+1001,Moba
+1002,Sports
+1003,Battle Royal
+1004,FPS
+1005,FPS
+1006,Moba
+1007,FPS
+1008,Puzzle
+1009,Adventure
+1010,Battle Royal
+1011,Horor
+1012,Sports
+1013,Horor
+1014,Adventure
+1015,Moba
+1016,Moba
+1017,Horor
+1018,Sports
+1019,Moba
+1020,FPS
+1021,FPS
+1022,Adventure
+1023,Sports
+1024,Sports
+1025,Puzzle
+1026,Moba
+1027,RPG
+1028,RPG
+1029,Adventure
+1030,Moba
+1031,RPG
+1032,Sports
+1033,Puzzle
+1034,Sports
+1035,RPG
+1036,Adventure
+1037,FPS
+1038,Battle Royal
+1039,Puzzle
+1040,Puzzle
+1041,Adventure
+1042,Moba
+1043,RPG
+1044,RPG
+1045,Horor
+1046,Sports
+1047,RPG
+1048,Sports
+1049,Horor
+1050,Battle Royal
+1051,Battle Royal
+1052,Sports
+1053,Battle Royal
+1054,Sports
+1055,Sports
+1056,Adventure
+1057,Puzzle
+1058,Puzzle
+1059,FPS
+1060,Adventure
+1061,Adventure
+1062,RPG
+1063,Horor
+1064,FPS
+1065,Moba
+1066,Sports
+1067,Battle Royal
+1068,RPG
+1069,Sports
+1070,Horor
+1071,Open World
+1072,Puzzle
+1073,Battle Royal
+1074,FPS
+1075,Battle Royal
+1076,Adventure
+1077,Open World
+1078,FPS
+1079,Open World
+1080,Open World
+1081,Open World
+1082,Moba
+1083,Sports
+1084,FPS
+1085,Puzzle
+1086,Sports
+1087,Sports
+1088,FPS
+1089,Sports
+1090,Horor
+1091,Open World
+1092,RPG
+1093,Battle Royal
+1094,FPS
+1095,Open World
+1096,Moba
+1097,FPS
+1098,Horor
+1099,Sports
+1100,Horor
+1101,Moba
+1102,Moba
+1103,Open World
+1104,Battle Royal
+1105,Puzzle
+1106,RPG
+1107,Open World
+1108,Adventure
+1109,Open World
+1110,Sports
+1111,RPG
+1112,RPG
+1113,Open World
+1114,Open World
+1115,Sports
+1116,Sports
+1117,Open World
+1118,Battle Royal
+1119,Moba
+1120,Puzzle
+1121,Adventure
+1122,Horor
+1123,Adventure
+1124,Puzzle
+1125,Sports
+1126,Horor
+1127,RPG
+1128,Sports
+1129,Adventure
+1130,Sports
+1131,FPS
+1132,Open World
+1133,Sports
+1134,Adventure
+1135,Moba
+1136,Sports
+1137,RPG
+1138,Battle Royal
+1139,Sports
+1140,Puzzle
+1141,FPS
+1142,FPS
+1143,Open World
+1144,Sports
+1145,Sports
+1146,Sports
+1147,Battle Royal
+1148,Horor
+1149,RPG
+1150,Sports
+1151,Puzzle
+1152,Adventure
+1153,FPS
+1154,Puzzle
+1155,Horor
+1156,Sports
+1157,Open World
+1158,Battle Royal
+1159,Sports
+1160,FPS
+1161,RPG
+1162,RPG
+1163,Battle Royal
+1164,Battle Royal
+1165,Puzzle
+1166,Horor
+1167,Moba
+1168,FPS
+1169,RPG
+1170,Sports
+1171,RPG
+1172,Adventure
+1173,Battle Royal
+1174,Puzzle
+1175,Moba
+1176,Open World
+1177,Horor
+1178,Open World
+1179,Sports
+1180,Open World
+1181,Horor
+1182,Adventure
+1183,Moba
+1184,FPS
+1185,Puzzle
+1186,Puzzle
+1187,Puzzle
+1188,Sports
+1189,FPS
+1190,Sports
+1191,Sports
+1192,Battle Royal
+1193,Puzzle
+1194,Sports
+1195,Sports
+1196,Adventure
+1197,RPG
+1198,Battle Royal
+1199,Sports
+1200,Moba
+1201,FPS
+1202,Adventure
+1203,RPG
+1204,Moba
+1205,RPG
+1206,Moba
+1207,Sports
+1208,Moba
+1209,Sports
+1210,FPS
+1211,RPG
+1212,Sports
+1213,Open World
+1214,Sports
+1215,Puzzle
+1216,Sports
+1217,Sports
+1218,Adventure
+1219,Puzzle
+1220,Sports
+1221,Sports
+1222,Puzzle
+1223,Moba
+1224,RPG
+1225,Adventure
+1226,RPG
+1227,Battle Royal
+1228,Puzzle
+1229,Battle Royal
+1230,Sports
+1231,Adventure
+1232,Adventure
+1233,Horor
+1234,RPG
+1235,Moba
+1236,Open World
+1237,Horor
+1238,Adventure
+1239,Adventure
+1240,Moba
+1241,Sports
+1242,Battle Royal
+1243,Battle Royal
+1244,Battle Royal
+1245,RPG
+1246,Sports
+1247,Adventure
+1248,Moba
+1249,RPG
+1250,Moba
+1251,Open World
+1252,Sports
+1253,RPG
+1254,Adventure
+1255,Open World
+1256,Adventure
+1257,Sports
+1258,Sports
+1259,Horor
+1260,RPG
+1261,Battle Royal
+1262,Adventure
+1263,RPG
+1264,Sports
+1265,Puzzle
+1266,Sports
+1267,Horor
+1268,Sports
+1269,Puzzle
+1270,Sports
+1271,Sports
+1272,Sports
+1273,Horor
+1274,Adventure
+1275,Moba
+1276,Open World
+1277,FPS
+1278,Sports
+1279,FPS
+1280,Battle Royal
